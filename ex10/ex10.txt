@@ -1,0 +1,11 @@
+PS C:\Users\mngok> python -u "c:\Users\mngok\Downloads\import.py"
+
+[15:09:48] OK: Opened 'Notepad'
+[15:09:48] OK: Typed into 'Notepad': 'AI Lab Mini Project Report - Local Bridge Demo'
+[15:09:48] OK: Saved 'report.txt' with content: 'AI Lab Mini Project Report - Local Bridge Demo'
+[15:09:48] REJECTED {'action': 'format_disk', 'params': {'drive': 'C:'}} -> Action 'format_disk' is not whitelisted
+[15:09:48] OK: Closed 'Notepad'
+
+Final Desktop State:
+Open apps: []
+Saved files: {'Notepad': 'AI Lab Mini Project Report - Local Bridge Demo', 'report.txt': 'AI Lab Mini Project Report - Local Bridge Demo'}
